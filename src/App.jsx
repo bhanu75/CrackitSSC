@@ -1,11 +1,11 @@
 import { useState } from 'react'
-import BillingDashboard from './components/BillingDashboard'
+import CrackitSSC from './components/crackitssc'
 import './App.css'
 
 function App() {
   return (
     <>
-      <BillingDashboard />
+      <CrackitSSC/>
     </>
   )
 }
